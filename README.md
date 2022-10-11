@@ -6,4 +6,4 @@ Cloud Build is a managed service on Google Cloud Platform that allows you to con
 
 Also trigger has been created using GitHub google cloud build trigger extension, which triggers cloudbuild pipeline whenever there is commit to main branch.
 
-Thanks!!
+Thanks!!!!!!!!
